@@ -22,7 +22,7 @@ In addition to my infrastructure experience, I am a skilled Penetration Tester, 
 - *Threat Modelling*
 - *Infrastructuure Design*
 
-- A little more about me can be found on this **[link]**(https://samsonidowu.netlify.app/)
+- A little more about me can be found on this [**link**](https://samsonidowu.netlify.app/)
 - 📫 You can reach me using **mailtosamsoni@gmail.com** or **olugbengasamsonidowu@gmail.com**
 
 <div id="header" align="center">
