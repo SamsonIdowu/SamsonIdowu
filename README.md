@@ -9,11 +9,11 @@
 
 ### **About Me:**
 
-- 💪 *I love to spend time on security research in the areas of; application security, systems security, network security, forensics and DevSecOps.*
+- 👀 *I love to spend time on security research in the areas of; application security, systems security, network security, forensics and DevSecOps.*
 
-- 😫 *I hate reading other people's code.*
+- 🙄 *I hate reading other people's code.*
 
-- *I have several industry certifications; but I prefer to focus my time and energy on learning new skills rather than trying to write exams, as I believe that the one true validation for my skills is **DELIVERY**.*
+- 💪 *I have several industry certifications; but I prefer to focus my time and energy on learning new skills rather than trying to write exams, as I believe that the one true validation for my skills is **DELIVERY**.*
 
 - 👌 *I am a skilled Network Engineer (Cisco), System Administrator (Windows & Linux), Penetration Tester, proficient in identifying and exploiting vulnerabilities in systems and networks. I have a long array of tools I am proficient with; however, I will spare you the misery of reading through them* 😃😅😄
 
