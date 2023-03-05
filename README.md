@@ -1,7 +1,7 @@
 # samson-idowu
 About me
 <div id="header" align="center">
-  <img src="https://i.imgur.com//oFTHu7E.gif" width="200"/> 
+  <img src="https://i.pinimg.com/originals/8b/fd/01/8bfd01c18be1b5059bc0d7770d9dabf1.gif" width="800"/> 
 
 </div>
 
