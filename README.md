@@ -16,7 +16,11 @@ Currently, I am collaborating on several research projects and hope to work with
 - 💬 Ask me about anything security and operations, most specifically: **Vulnerability management, Threat Modelling, DevOps, Penetration testing, Security Monitoring (SIEM), Infrastructure, Routing & Switching, LAN/WAN operations, System Administration, Cloud Infrastructure (AWS & Azure), Virtualization, Container Orchestration (Kubernetes), Docker, CI/CD, IaaC, Network Security, SAST/DAST**
 
 A little more about me can be found on this [**link.**](https://samsonidowu.netlify.app/)
-📫 You can reach me using **mailtosamsoni@gmail.com** or **olugbengasamsonidowu@gmail.com**
+
+📫 You can reach me using 
+**mailtosamsoni@gmail.com**
+          OR
+**olugbengasamsonidowu@gmail.com**
 
 <div id="header" align="center">
   <img src="https://www.careerguide.com/career/wp-content/uploads/2020/02/cs-an.gif" width="1000"/> 
