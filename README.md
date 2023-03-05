@@ -20,6 +20,7 @@ A little more about me can be found on this [**link.**](https://samsonidowu.netl
 📫 You can reach me using:
 
 **mailtosamsoni@gmail.com**
+
 **olugbengasamsonidowu@gmail.com**
 
 <div id="header" align="center">
