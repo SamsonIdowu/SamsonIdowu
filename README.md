@@ -3,7 +3,7 @@
 </div>
 
 # Hi, I am Samson Idowu 👋🏽
-An experienced Cybersecurity Engineer and Researcher with an Msc degree in Security and Network Engineering from Innopolis University. I have a solid technical background which has seen me wear different hats in the course of my career. 
+### An experienced Cybersecurity Engineer and Researcher with an Msc degree in Security and Network Engineering from Innopolis University.
 
 - I love to spend time on security research in the areas of; application security, systems security, network security, forensics and DevSecOps.
 
