@@ -9,7 +9,7 @@
 
 - I hate reading other people's code.
 
-- I have several industry-standard certifications; but I focus my time and energy on learning new skills rather than trying to write exams, as I believe that the one true validation for my skills is DELIVERY.
+- I have several industry certifications; but I prefer to focus my time and energy on learning new skills rather than trying to write exams, as I believe that the one true validation for my skills is DELIVERY.
 
 - I am a skilled Network Engineer (Cisco), System Administrator (Windows & Linux), Penetration Tester, proficient in identifying and exploiting vulnerabilities in systems and networks. I have a long array of tools I am proficient with; however, I will spare you the misery of reading them.
 
@@ -17,7 +17,23 @@
 
 - Currently, I am collaborating on several research projects and hope to work with you someday.
 
-- 💬 Ask me about anything security and operations, most specifically: **Vulnerability management, Threat Modelling, DevOps, Penetration testing, Security Monitoring (SIEM), Infrastructure, Routing & Switching, LAN/WAN operations, System Administration, Cloud Infrastructure (AWS & Azure), Virtualization, Container Orchestration (Kubernetes), Docker, CI/CD, IaaC, Network Security, SAST/DAST**
+💬 Ask me about anything security and operations, most specifically: 
+
+- Vulnerability management 
+- Threat Modelling 
+- DevOps/DevSecOps
+- Penetration Testing
+- Security Monitoring (SIEM)
+- Infrastructure Engineering
+- Networking (Routing & Switching, LAN/WAN operations)
+- System Administration (Windows & Linux)
+- Cloud Infrastructure (AWS & Azure) 
+- Virtualization (VMWare ESXi, HyperV, KVM)
+- Containerization and Orchestration (Docker & Kubernetes)
+- Continuous Integration and Deployment (Jenkins, GitLab CI, GitHub Actions)
+- Infrastructure as a Code (Terraform & Ansible)
+- Network Security
+- SAST/DAST
 
 - A little more about me can be found on this [**link.**](https://samsonidowu.netlify.app/)
 
