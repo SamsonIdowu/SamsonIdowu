@@ -1,7 +1,7 @@
 # samson-idowu
 About me
 <div id="header" align="center">
-  <img src="[[https://media3.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif?cid=ecf05e47hkoyio26fqjujbuur0rog0gl320cuwmg0a9in279&rid=giphy.gif&ct=g](https://www.pinterest.com/pin/628674429212845291/)](https://www.google.com/search?q=cybersecurity+gif+imagers&sxsrf=AJOqlzURIbFj8uMkrFB7xeLLH0feMKMDRA:1677992357029&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiym4HTgMT9AhU8bvEDHcpeBiEQ_AUoAXoECAEQAw&biw=2400&bih=1261&dpr=0.8#imgrc=vqp-IgPQnK1e9M)" width="200"/> 
+  <img src="https://images.app.goo.gl/6piwvVrZtadxNpiq9" width="200"/> 
 
 </div>
 
