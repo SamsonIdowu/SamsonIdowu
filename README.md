@@ -1,12 +1,12 @@
 # samson-idowu
 About me
 <div id="header" align="center">
-  <img src="[https://media3.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif?cid=ecf05e47hkoyio26fqjujbuur0rog0gl320cuwmg0a9in279&rid=giphy.gif&ct=g](https://www.pinterest.com/pin/628674429212845291/)" width="200"/> 
+  <img src="[[https://media3.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif?cid=ecf05e47hkoyio26fqjujbuur0rog0gl320cuwmg0a9in279&rid=giphy.gif&ct=g](https://www.pinterest.com/pin/628674429212845291/)](https://www.google.com/search?q=cybersecurity+gif+imagers&sxsrf=AJOqlzURIbFj8uMkrFB7xeLLH0feMKMDRA:1677992357029&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiym4HTgMT9AhU8bvEDHcpeBiEQ_AUoAXoECAEQAw&biw=2400&bih=1261&dpr=0.8#imgrc=vqp-IgPQnK1e9M)" width="200"/> 
 
 </div>
 
 
-## Hi, I'm Shoyemi Ayomide 👋🏽
+## Hi, I am Samson Idowu 👋🏽
 
 
 An experienced Senior Cybrsecurity Analyst at a leading MSSP in Africa and an Infrastructure Security Engineer who is currently pursuing an Msc degree in Secure systems and Network Engineering at Innopolis University. I come from a technical background which has seen me wear different hats through out my career as the need arises. 
