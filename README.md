@@ -11,10 +11,7 @@ In addition to my infrastructure experience, I am a skilled Penetration Tester, 
 
 - Currently, I am collaborating on several research projects and hope to work with you someday.
 
-- 💬 Ask me about anything security and operaations, most specifically: **Vulnerability management, Threat Modelling, DevOps, Penetration testing, SIEM Engineering, Infrastructure Design, Routing & Switching, LAN/WAN operations, System Administration, Cloud Infrastructure (AWS & Azure), Virtualization, Container Orchestration, Docker, Jenkins, GitLab CI, IaaC, Network Security, SAST/DAST**
-
-- 📫 You can reach out to me **mailtosamsoni@gmail.com** or **olugbengasamsonidowu@gmail.com**
-
+- 💬 Ask me about anything security and operations, most specifically: **Vulnerability management, Threat Modelling, DevOps, Penetration testing, Security Monitoring (SIEM), Infrastructure, Routing & Switching, LAN/WAN operations, System Administration, Cloud Infrastructure (AWS & Azure), Virtualization, Container Orchestration (Kubernetes), Docker, CI/CD, IaaC, Network Security, SAST/DAST**
 
 ### Reach out to me for:
 - *Security Consultation*
@@ -25,17 +22,8 @@ In addition to my infrastructure experience, I am a skilled Penetration Tester, 
 - *Threat Modelling*
 - *Infrastructuure Design*
 
-
-### Contact Me
-<a href="https://www.linkedin.com/in/samson-idowu/">
- <img align="left" alt="Samson Idowu | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
-<a href="mailto:mailtosamsoni@gmail.com">
- <img align="left" alt="Email" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>
-</a>
-</br>
-
+- A little more about me can be found on this **[link]**(https://samsonidowu.netlify.app/)
+- 📫 You can reach me using **mailtosamsoni@gmail.com** or **olugbengasamsonidowu@gmail.com**
 
 <div id="header" align="center">
   <img src="https://www.careerguide.com/career/wp-content/uploads/2020/02/cs-an.gif" width="1000"/> 
