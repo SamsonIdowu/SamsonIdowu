@@ -22,7 +22,7 @@
 - :v: *In recent times, I spend a handful of my time on DevSecOps projects, as i emjoy working closely with development teams to integrate security into the software development lifecycle.* 
 
 
-:simple_smile: **Currently, I am collaborating on several research projects and hope to work with you someday.**
+😌 **Currently, I am collaborating on several research projects and hope to work with you someday.**
 
 
 
