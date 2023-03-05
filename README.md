@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://thumbs.gfycat.com/ApprehensiveAgileGermanshorthairedpointer-size_restricted.gif" width="400"/> 
+  <img src="https://thumbs.gfycat.com/ApprehensiveAgileGermanshorthairedpointer-size_restricted.gif" width="900"/> 
 </div>
 
 
