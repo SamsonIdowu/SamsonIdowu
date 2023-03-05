@@ -11,7 +11,7 @@
 
 - I hate reading other people's code.
 
-- I have several industry certifications; but I prefer to focus my time and energy on learning new skills rather than trying to write exams, as I believe that the one true validation for my skills is DELIVERY.
+- I have several industry certifications; but I prefer to focus my time and energy on learning new skills rather than trying to write exams, as I believe that the one true validation for my skills is *DELIVERY*.
 
 - I am a skilled Network Engineer (Cisco), System Administrator (Windows & Linux), Penetration Tester, proficient in identifying and exploiting vulnerabilities in systems and networks. I have a long array of tools I am proficient with; however, I will spare you the misery of reading through them.
 
@@ -37,8 +37,8 @@ Currently, I am collaborating on several research projects and hope to work with
 - Network Security
 - SAST/DAST
 
-- A little more about me can be found on this [**link.**](https://samsonidowu.netlify.app/)
+Some more about me can be found on this [**link.**](https://samsonidowu.netlify.app/)
 
-- 📫 You can reach me using: **mailtosamsoni@gmail.com** or **olugbengasamsonidowu@gmail.com**
+📫 You can reach me directly using: **mailtosamsoni@gmail.com** or **olugbengasamsonidowu@gmail.com**
 
 <!--
