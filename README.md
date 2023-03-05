@@ -1,7 +1,7 @@
 # samson-idowu
 About me
 <div id="header" align="center">
-  <img src="https://media.licdn.com/dms/image/C5112AQF9a-hvzWn8uA/article-cover_image-shrink_600_2000/0/1574956586430?e=2147483647&v=beta&t=gJtNG2yyNA55hJa-1EQ_20QewBtVaz1oMq20GX4e_ic" width="600"/> 
+  <img src="https://media.licdn.com/dms/image/C5112AQF9a-hvzWn8uA/article-cover_image-shrink_600_2000/0/1574956586430?e=2147483647&v=beta&t=gJtNG2yyNA55hJa-1EQ_20QewBtVaz1oMq20GX4e_ic" width="800"/> 
 
 </div>
 
