@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://laptopstudy.com/wp-content/uploads/2022/02/Gv6qlyH.gif" width="1000"/> 
+  <img src="![image](https://user-images.githubusercontent.com/66468924/222946175-739bd04a-d6e1-401c-ae4c-36515d942bbf.png)" width="1000"/> 
 </div>
 
 
