@@ -17,9 +17,9 @@ Currently, I am collaborating on several research projects and hope to work with
 
 A little more about me can be found on this [**link.**](https://samsonidowu.netlify.app/)
 
-📫 You can reach me using 
+📫 You can reach me using:
+
 **mailtosamsoni@gmail.com**
-          OR
 **olugbengasamsonidowu@gmail.com**
 
 <div id="header" align="center">
