@@ -1,11 +1,3 @@
-# samson-idowu
-About me
-<div id="header" align="center">
-  <img src="https://www.careerguide.com/career/wp-content/uploads/2020/02/cs-an.gif" width="1000"/> 
-
-</div>
-
-
 ## Hi, I am Samson Idowu 👋🏽
 
 
@@ -19,7 +11,7 @@ In addition to my infrastructure experience, I am a skilled Penetration Tester, 
 
 - Currently i am collaborating on several research projects and hope to collaborate with you someday.
 
-- 💬 Ask me about ** Vulnerability management, Threat Modelling, DevOps, Penetration testing, SIEM Engineering, Infrastructure Design, Routing & Switching, LAN/WAN operations, System Administration, Cloud Computing (AWS), Virtualization, Container Orchestration, Docker, Jenkins, GitLab CI, IaaC, Network Security, SAST/DAST**
+- 💬 Ask me about anything security and operaations, most specifically: **Vulnerability management, Threat Modelling, DevOps, Penetration testing, SIEM Engineering, Infrastructure Design, Routing & Switching, LAN/WAN operations, System Administration, Cloud Infrastructure (AWS & Azure), Virtualization, Container Orchestration, Docker, Jenkins, GitLab CI, IaaC, Network Security, SAST/DAST**
 
 - 📫 You can reach out to me **mailtosamsoni@gmail.com** or **olugbengasamsonidowu@gmail.com**
 
@@ -71,5 +63,9 @@ In addition to my infrastructure experience, I am a skilled Penetration Tester, 
 
 </br>
 
+<div id="header" align="center">
+  <img src="https://www.careerguide.com/career/wp-content/uploads/2020/02/cs-an.gif" width="1000"/> 
+
+</div>
 
 <!--
