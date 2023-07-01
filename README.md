@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://1.bp.blogspot.com/-ivuuJuMkzVA/XWsXcEno6eI/AAAAAAAAQMs/wsSTlqBjvggwulNMdTaH0Ymv4j7DhKeFQCLcBGAs/s1600/EMAGNET_1.gif" width="1000"/> 
+  <img src="https://images.squarespace-cdn.com/content/v1/5bc9dc14b10f255d8ddf86c5/1618404108254-FZN2CN21C3JW8I1LABGD/ezgif.com-gif-maker%2B%282%29.gif" width="1000"/> 
 </div>
 
 
