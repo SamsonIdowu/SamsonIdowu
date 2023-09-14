@@ -31,7 +31,6 @@
 - Threat Modelling 
 - DevOps/DevSecOps
 - Penetration Testing
-- Security Monitoring (SIEM)
 - Infrastructure Engineering
 - Networking (Routing & Switching, LAN/WAN operations)
 - System Administration (Windows & Linux)
