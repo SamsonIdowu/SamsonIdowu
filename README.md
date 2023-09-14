@@ -10,15 +10,15 @@
 
 - 👀 *I love to spend time on security research in the areas of; application security, systems security, network security, forensics and DevSecOps.*
 
-- 🙄 *I hate reading other people's code.*
+- 🙄 *Sadly, I dislike reading other people's code, but I have to.*
 
-- 💪 *I have several industry certifications; but I prefer to focus my time and energy on learning new skills rather than trying to write exams, as I believe that the one true validation for my skills is **DELIVERY**.*
+- 💪 *I have several industry certifications; but I prefer to focus my time and energy on learning new skills instead of passing exams, as I believe that the one true validation for my skills is **DELIVERY**.*
 
-- 👌 *I am a skilled Network Engineer (Cisco), System Administrator (Windows & Linux), Penetration Tester, proficient in identifying and exploiting vulnerabilities in systems and networks.*
+- 👌 *I am a skilled Network Engineer (Cisco & Fortinet), System Administrator (Windows, macOS & Linux), Security Engineer, proficient in identifying and exploiting vulnerabilities in systems and networks.*
 
 - 🙊 *I have a long array of tools I am proficient with; however, I will spare you the misery of reading through them.*
 
-- :v: *In recent times, I spend a handful of my time on DevSecOps projects, as i emjoy working closely with development teams to integrate security into the software development lifecycle.* 
+- :v: *In recent times, I spend a handful of my time on DevSecOps projects, as I emjoy working closely with development teams to integrate security into the software application development.* 
 
 
 **Currently, I am collaborating on several research projects and hope to work with you someday.**
@@ -42,10 +42,11 @@
 - Infrastructure as a Code (Terraform & Ansible)
 - Network Security
 - SAST/DAST
+- SIEM (Wazuh, Splunk, ELK)
 
 
 
-Some more about me can be found on this 👉 [**link.**](https://samsonidowu.netlify.app/)
+Some more about me can be found on this 👉 https://samsonidowu.netlify.app/ & https://www.linkedin.com/in/samson-idowu/
 
 
 
