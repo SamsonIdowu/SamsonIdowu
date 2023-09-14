@@ -4,12 +4,7 @@
 
 
 # Hi, I am Samson👋🏽
-**An experienced Cybersecurity Engineer and Researcher with an Msc degree in Security and Network Engineering from Innopolis University.**
-
-Picture this; it's 2 AM and the company's servers are down, exposing sensitive data to potential attacks. As a DevOps, Cybersecurity, and Infrastructure Engineer, I am driven by the urgency to restore operations, protect valuable assets, and prevent future breaches. 
-
-It's not just a job, it's my passion.
-
+**An experienced Cybersecurity and Infrastructure Engineer with an Msc degree in Security and Network Engineering from Innopolis University.**
 
 ### **About Me:**
 
