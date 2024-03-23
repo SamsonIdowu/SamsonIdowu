@@ -33,7 +33,7 @@
 - Penetration Testing
 - Infrastructure Engineering
 - Networking (Routing & Switching, LAN/WAN operations)
-- System Administration (Windows & Linux)
+- System Administration (Windows, macOS & Linux)
 - Cloud Infrastructure (AWS & Azure) 
 - Virtualization (VMWare ESXi, HyperV, KVM)
 - Containerization and Orchestration (Docker & Kubernetes)
